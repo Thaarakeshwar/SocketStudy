@@ -69,6 +69,9 @@ conn.close()
 server_socket.close()
 ~~~
 
+<img width="1047" height="155" alt="image" src="https://github.com/user-attachments/assets/eeb4ffd7-0408-4ec6-a97b-a16d5e647984" />
+
+
 ## Client –Server Operations
 
 Clients create a socket using socket() and connect to a server using connect().
@@ -95,6 +98,9 @@ print("Server says:", data)
 # Close socket
 client_socket.close()
 ~~~
+
+<img width="1232" height="142" alt="image" src="https://github.com/user-attachments/assets/8a3d650f-f1f1-4985-ab97-88ed03fc7ccf" />
+
 
 ## Use Cases of Socket Programming:
 Socket programming finds applications in various domains, including web development, file transfer protocols, online gaming, and real-time communication. It is the foundation for protocols like HTTP, FTP, and SMTP, which power the internet. Socket programming enables the development of both server and client applications, facilitating the exchange of information between devices in a networked environment.
